@@ -1,0 +1,12 @@
+{
+    "products": [
+      { "id": 1, "name": "Classic White T-Shirt", "category": "T-Shirts", "description": "Comfortable cotton t-shirt for everyday wear", "price": 19.99, "stock": 50, "image": "https://picsum.photos/seed/tshirt/300/200" },
+      { "id": 2, "name": "Formal Blue Shirt", "category": "Shirts", "description": "Elegant shirt for office and formal occasions", "price": 49.99, "stock": 30, "image": "https://picsum.photos/seed/shirt/300/200" },
+      { "id": 3, "name": "Leather Biker Jacket", "category": "Jackets", "description": "Stylish leather jacket for a cool look", "price": 199.99, "stock": 15, "image": "https://picsum.photos/seed/jacket/300/200" },
+      { "id": 4, "name": "Men's Leather Oxford Shoes", "category": "Men Shoes", "description": "Classic leather shoes for a sophisticated look", "price": 89.99, "stock": 25, "image": "https://picsum.photos/seed/menshoes/300/200" },
+      { "id": 5, "name": "Women's High Heel Pumps", "category": "Women Shoes", "description": "Elegant high heels for special occasions", "price": 79.99, "stock": 20, "image": "https://picsum.photos/seed/womenshoes/300/200" },
+      { "id": 6, "name": "Slim Fit Chino Trousers", "category": "Trousers", "description": "Comfortable and stylish chino trousers", "price": 59.99, "stock": 40, "image": "https://picsum.photos/seed/trousers/300/200" },
+      { "id": 7, "name": "Leather Tote Bag", "category": "Bags", "description": "Spacious and elegant leather tote bag", "price": 129.99, "stock": 15, "image": "https://picsum.photos/seed/bag/300/200" },
+      { "id": 8, "name": "Silk Scarf", "category": "Others", "description": "Beautiful silk scarf to complement any outfit", "price": 39.99, "stock": 30, "image": "https://picsum.photos/seed/scarf/300/200" }
+    ]
+  }
